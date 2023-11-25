@@ -42,6 +42,13 @@ npm run ios
 yarn ios
 ```
 
+**App ScreenShots:**
+![SplashScreen](https://github.com/nitesh622/QuadBTech/assets/98612362/8294dbab-a49b-4658-aac1-7851a66ccd67)
+![HomeScreen](https://github.com/nitesh622/QuadBTech/assets/98612362/2eee05bb-f94c-4f61-a074-e98f65d25f2a)
+![SearchScreen](https://github.com/nitesh622/QuadBTech/assets/98612362/3c91f987-5b77-4dbf-8cca-f3c5afc75dd6)
+![DetailsScreen](https://github.com/nitesh622/QuadBTech/assets/98612362/ea661945-e534-41a2-9daa-0e9bbe67b451)
+
+
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
